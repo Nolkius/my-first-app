@@ -110,3 +110,4 @@
 /home/user1/DevSecOps/tp1/my-first-app.Tests/obj/Debug/net9.0/my-first-app.Tests.pdb
 /home/user1/DevSecOps/tp1/my-first-app.Tests/obj/Debug/net9.0/my-first-app.Tests.genruntimeconfig.cache
 /home/user1/DevSecOps/tp1/my-first-app.Tests/obj/Debug/net9.0/ref/my-first-app.Tests.dll
+/home/user1/DevSecOps/tp1/my-first-app.Tests/obj/Debug/net9.0/my-first-app.Tests.sourcelink.json
