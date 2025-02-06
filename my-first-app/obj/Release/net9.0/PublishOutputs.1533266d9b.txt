@@ -1,0 +1,12 @@
+/home/user1/DevSecOps/tp1/my-first-app/testttt/my-first-app
+/home/user1/DevSecOps/tp1/my-first-app/testttt/appsettings.Development.json
+/home/user1/DevSecOps/tp1/my-first-app/testttt/appsettings.json
+/home/user1/DevSecOps/tp1/my-first-app/testttt/my-first-app.dll
+/home/user1/DevSecOps/tp1/my-first-app/testttt/my-first-app.deps.json
+/home/user1/DevSecOps/tp1/my-first-app/testttt/my-first-app.runtimeconfig.json
+/home/user1/DevSecOps/tp1/my-first-app/testttt/my-first-app.pdb
+/home/user1/DevSecOps/tp1/my-first-app/testttt/Microsoft.AspNetCore.OpenApi.dll
+/home/user1/DevSecOps/tp1/my-first-app/testttt/Microsoft.OpenApi.dll
+/home/user1/DevSecOps/tp1/my-first-app/testttt/Swashbuckle.AspNetCore.Swagger.dll
+/home/user1/DevSecOps/tp1/my-first-app/testttt/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/user1/DevSecOps/tp1/my-first-app/testttt/Swashbuckle.AspNetCore.SwaggerUI.dll
