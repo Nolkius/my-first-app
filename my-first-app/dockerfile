@@ -9,7 +9,7 @@ WORKDIR /source
 COPY . .
 
 # Publication de l'app dotnet
-RUN dotnet publish -c Release -o /app
+RUN cd my-first-app/ && dotnet publish -c Release -o /app
 
 FROM ubuntu:24.10 AS prod
 
